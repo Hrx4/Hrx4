@@ -1,7 +1,6 @@
 ﻿<h1 align="center">Hi 👋, I'm Kamal paul</h1>
 <h3 align="center">A passionate Full stack Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" >
-# 💫 About Me:
 🔭 I’m currently working on Freelancing<br><br>🌱 I’m currently learning AWS , Docker<br><br>💬 Ask me about MERN stack , RN app development<br><br>📫 How to reach me dragkamal71@gmail.com<br><br>⚡ Fun fact I can play guitar
 
 
